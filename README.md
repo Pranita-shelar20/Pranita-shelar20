@@ -3,13 +3,12 @@
 <h3 align="center">A passionate Artificial intelligence and data science student from India</h3>
 <img align ="right" alt ="coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 
-- 🌱 I’m currently learning **Javascript and Databses**
 
 - 📫 How to reach me **scipranita2003@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/pranita shelar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pranita shelar" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/pranita-shelar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pranita shelar" height="30" width="40" /></a>
 <a href="https://instagram.com/pranitas_20_03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pranitas_20_03" height="30" width="40" /></a>
 </p>
 
